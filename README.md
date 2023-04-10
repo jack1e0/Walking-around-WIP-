@@ -1,2 +1,5 @@
 # game-3
-Trying out first-person POV in Unity3D
+Features:
+- Unity3D and Blender
+- First-person POV
+- Camera movement and rotation
